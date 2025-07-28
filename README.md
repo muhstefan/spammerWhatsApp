@@ -1,2 +1,3 @@
 # spammerWhatsApp
-this programm sends messages from txt doc to clients
+Небольшая утилита, чтобы массово отправлять сообщения клиентам из txt файла.
+основа - selenium
